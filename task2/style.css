@@ -1,0 +1,10 @@
+p {
+    color:rgb(41, 148, 151);
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+code {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}

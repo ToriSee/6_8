@@ -1,0 +1,20 @@
+#upper {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: black;
+}
+
+#middle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: black;
+}
+
+#lower {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: black;
+}
